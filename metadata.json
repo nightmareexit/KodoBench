@@ -1,0 +1,6 @@
+{
+  "name": "KodoBench",
+  "description": "HTML・CSS・JavaScript・Luau に対応したコーディングAIエージェント搭載の開発支援プラットフォーム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
