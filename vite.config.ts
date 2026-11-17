@@ -6,9 +6,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    // 👇 ここにリポジトリ名に合わせたパスを指定します
-    base: '/KodoBench/',
-    
     plugins: [
       react(),
       tailwindcss(),
